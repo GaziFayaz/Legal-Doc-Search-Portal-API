@@ -1,16 +1,25 @@
 # request response models
 from pydantic import BaseModel
 
+
+class Data(BaseModel):
+    title: str
+    content: str
+    summary: str
+
+
 class Request(BaseModel):
-  query: str
- 
+    query: str
+
+
 class Response(BaseModel):
-  statusCode: int
-  status: str
-  message: str
-  data: dict[str, str] | None = None
-  
+    success: bool
+    statusCode: int
+    message: str
+    data: Data | None = None
+
+
 class ErrorResponse(BaseModel):
-  statusCode: int
-  status: str
-  message: str
+    success: bool
+    statusCode: int
+    message: str
