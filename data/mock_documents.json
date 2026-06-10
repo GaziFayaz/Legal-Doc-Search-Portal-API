@@ -1,0 +1,56 @@
+[
+  {
+    "id": "residential-lease-agreement",
+    "title": "Residential Lease Agreement",
+    "keywords": [
+      "lease",
+      "tenant",
+      "landlord",
+      "rent",
+      "property",
+      "deposit",
+      "termination",
+      "notice",
+      "repair",
+      "damage"
+    ],
+    "content": "This agreement is made between the landlord and the tenant for the rental of a residential property.\n\nThe tenant agrees to pay monthly rent on or before the first day of each month. The tenant is responsible for keeping the property clean and reporting necessary repairs to the landlord.\n\nThe landlord must provide a safe and habitable property and may enter the property only after giving reasonable notice, except in emergencies.\n\nEither party may terminate this agreement by providing 30 days written notice. If the tenant causes serious damage or fails to pay rent, the landlord may begin termination procedures according to applicable law.\n\nThe security deposit may be used to cover unpaid rent, property damage, or cleaning costs beyond normal wear and tear.",
+    "summary": "The document explains tenant and landlord obligations, including rent payment requirements, property maintenance responsibilities, and lease termination procedures."
+  },
+  {
+    "id": "employment-contract",
+    "title": "Employment Contract",
+    "keywords": [
+      "employment",
+      "employee",
+      "employer",
+      "salary",
+      "resignation",
+      "termination",
+      "notice",
+      "workplace",
+      "duties",
+      "confidential"
+    ],
+    "content": "This agreement defines the terms of employment between the employer and the employee.\n\nThe employee agrees to perform assigned duties professionally and follow company policies. The employer agrees to pay the employee the agreed salary on a regular payment schedule.\n\nThe employee may resign by providing two weeks written notice. The employer may terminate employment for poor performance, misconduct, business needs, or violation of company policy.\n\nThe employee must keep company information confidential during and after employment. Company documents, devices, and records must be returned when employment ends.\n\nAny disputes related to this agreement should first be discussed between the employer and employee before legal action is taken.",
+    "summary": "The document describes employment terms such as compensation, employee duties, confidentiality requirements, resignation notice periods, and grounds for termination."
+  },
+  {
+    "id": "non-disclosure-agreement",
+    "title": "Non-Disclosure Agreement",
+    "keywords": [
+      "nda",
+      "confidential",
+      "disclosure",
+      "trade secret",
+      "business",
+      "information",
+      "third party",
+      "protect",
+      "breach",
+      "damages"
+    ],
+    "content": "This agreement protects confidential information shared between the disclosing party and the receiving party.\n\nConfidential information may include business plans, customer lists, financial records, software code, product designs, trade secrets, and internal communications.\n\nThe receiving party must not share confidential information with any third party without written permission. The receiving party must use reasonable care to protect the information from unauthorized access.\n\nThis agreement does not apply to information that is already public, independently developed, or legally obtained from another source.\n\nIf the receiving party violates this agreement, the disclosing party may seek legal remedies, including damages or injunctive relief.",
+    "summary": "The document requires confidential information to be protected from unauthorized disclosure and specifies the consequences of violating confidentiality obligations."
+  }
+]
